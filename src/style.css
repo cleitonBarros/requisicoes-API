@@ -15,6 +15,13 @@ header{
     background-color: #4c89e3;
     color: #fff;
 
+
+}
+header strong:hover{
+     
+    color: rgb(241, 229, 229);
+    cursor: pointer;
+    transition: all 0.8s ease-in-out;
 }
 .post{
     display:flex;
